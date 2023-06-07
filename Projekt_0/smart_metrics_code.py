@@ -1,7 +1,7 @@
 import numpy as np
-from Projekt_0.guess_number import random_predict
-from Projekt_0.Smart_guess_number import game_core_v2
-from Projekt_0.metrics_of_code import score_game
+from guess_number import random_predict
+from Smart_guess_number import game_core_v2
+from metrics_of_code import score_game
 def game_core_v3(number: int = 1) -> int:
     """Сначала устанавливаем любое random число, 
     затем сужаем диапазон с обеих сторон, в зависимости от результата сравнения переменных, 
