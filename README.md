@@ -37,7 +37,7 @@
 ### Этапы работы над проектом  
 Проект реализован на основе 4-х функций:
 1. [Функция, генерирующая рандомное число-number, где пользователю предлагается отгадать число, загаданное компьютером](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/guess_number.py)
-2. [Функция, в которой сам компьютер загадывает и отгадывает число](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/smart_guess_number.py)
+2. [Функция, в которой сам компьютер загадывает и отгадывает число](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/Smart_guess_number.py)
 3. [Функция, вычисляющая число попыток в среднем за 1000 подходов](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/metrics_of_code.py)
 4. [Функция с алгоритмом, угадывающим число за минимальное количество попыток](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/smart_metrics_code.py)
 
@@ -51,7 +51,7 @@
 
 
 ### Выводы:  
-Для освоения профессии Data Scientist на уровне junior нужно очень упорно работать над собой :blush:
+Для освоения профессии Data Scientist на уровне junior нужно очень упорно работать над собой :+1:
 
 :arrow_up:[к оглавлению](#Оглавление)
 
