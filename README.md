@@ -1,5 +1,7 @@
 # ***Unit 5. Работа с GitHub***
 ## [***Проект_0. Игра Угадай число***](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/game_baseline.ipynb)
+
+## [**Решение задачи в проекте baseline на Google Диске***](https://colab.research.google.com/drive/1k2WZD8PWWOYFHrpAJoB2eZw06ID7KnFA?pli=1#scrollTo=giSKBUmgCAeh)
 ## Оглавление  
 [1. Описание проекта](#Описание-проекта)  
 [2. Какой кейс решаем?](#Какой-кейс-решаем)  
