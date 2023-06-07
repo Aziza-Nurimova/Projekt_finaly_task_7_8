@@ -1,6 +1,6 @@
 import numpy as np
-from guess_number import random_predict
-from Smart_guess_number import game_core_v2
+from Projekt_0.guess_number import random_predict
+from Projekt_0.Smart_guess_number import game_core_v2
 def score_game(random_predict) -> int:
     """За какое количество попыток в среднем за 10000 подходов угадывает наш алгоритм
 
