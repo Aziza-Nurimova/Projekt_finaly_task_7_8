@@ -36,10 +36,10 @@
 
 ### Этапы работы над проектом  
 Проект реализован на основе 4-х функций:
-- [Функция, генерирующая рандомное число-number, где пользователю предлагается отгадать число, загаданное компьютером](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/guess_number.py)\
-- [Функция, в которой сам компьютер загадывает и отгадывает число](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/smart_guess_number.py)\
-- [Функция, вычисляющая число попыток в среднем за 1000 подходов](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/metrics_of_code.py)\
-- [Функция с алгоритмом, угадывающим число за минимальное количество попыток](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/smart_metrics_code.py)\
+1. [Функция, генерирующая рандомное число-number, где пользователю предлагается отгадать число, загаданное компьютером](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/guess_number.py)
+2. [Функция, в которой сам компьютер загадывает и отгадывает число](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/smart_guess_number.py)
+3. [Функция, вычисляющая число попыток в среднем за 1000 подходов](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/metrics_of_code.py)
+4. [Функция с алгоритмом, угадывающим число за минимальное количество попыток](https://github.com/Aziza-Nurimova/Projekt_finaly_task_7_8/blob/master/Projekt_0/smart_metrics_code.py)
 
 :arrow_up:[к оглавлению](#Оглавление)
 
